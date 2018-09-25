@@ -1,0 +1,15 @@
+{
+  "name": "btm",
+  "version": "1.0.0",
+  "description": "BTM Private Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Santo Sinar Pandean",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "electron": "^3.0.0"
+  }
+}
